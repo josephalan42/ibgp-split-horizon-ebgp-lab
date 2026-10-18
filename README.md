@@ -1,5 +1,8 @@
 # iBGP Split Horizon & Multi-Homed eBGP Lab
 
+### Sandbox Source - https://pingmynetwork.com/ 
+### About the sandbox - Extremely fast, Easy to replicate labs from OCG or other learning materials, has great learning material.
+
 **CCNP ENARSI (300-410):** 1.11 Troubleshoot BGP (Internal and External)
 
 A transit AS (AS 200) sits between two customer ASes. The lab shows three things:
